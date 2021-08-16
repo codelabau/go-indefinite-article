@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/akupila/indefinite"
+	"github.com/codelabau/go-indefinite-article"
 )
 
 func TestArticle(t *testing.T) {

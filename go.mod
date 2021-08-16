@@ -1,3 +1,3 @@
-module github.com/akupila/go-indefinite-article
+module github.com/codelabau/go-indefinite-article
 
-go 1.14
+go 1.17

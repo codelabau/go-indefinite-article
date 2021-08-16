@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/akupila/go-indefinite-article"
+	"github.com/codelabau/go-indefinite-article"
 )
 
 func main() {
